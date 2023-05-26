@@ -1,2 +1,2 @@
 # debian-preseed
-Debian PreeSeed file for Aarch64
+Debian PreSeed file for Aarch64
